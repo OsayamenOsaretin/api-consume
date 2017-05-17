@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/OsayamenOsaretin/api-consume/issues"
   },
-  "homepage": "https://github.com/OsayamenOsaretin/api-consume#readme"
+  "homepage": "https://github.com/OsayamenOsaretin/api-consume#readme",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
 }
