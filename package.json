@@ -1,0 +1,19 @@
+{
+  "name": "api-consume",
+  "version": "1.0.0",
+  "description": "Consumes exchange rates from openexchangerates.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsayamenOsaretin/api-consume.git"
+  },
+  "author": "o.osayamen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OsayamenOsaretin/api-consume/issues"
+  },
+  "homepage": "https://github.com/OsayamenOsaretin/api-consume#readme"
+}
